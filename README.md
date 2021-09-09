@@ -1,4 +1,4 @@
-This is a TypeScript Boilerplate for FiveM
+TypeScript Boilerplate for FiveM to create resources.
 
 ## Usage
 
